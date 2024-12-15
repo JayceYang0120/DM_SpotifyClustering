@@ -74,14 +74,14 @@ def main():
     """
     n_clusters = 15
     cluster = Cluster(df_preprocessed, df_label, n_clusters)
-    # cluster.cluster_Kmeans() K = 16
+    # cluster.cluster_Kmeans() # K = 16
     # cluster.cluster_Agglomerative()
-    # cluster.cluster_DBSCAN()
+    cluster.cluster_DBSCAN()
     # cluster.cluster_GaussianMixture()
     # cluster.Kmeans()
     # cluster.Agglomerative()
     # cluster.DBSCAN()
-    cluster.GaussianMixture()
+    # cluster.GaussianMixture()
     """##############################################"""
 if __name__ == "__main__":
     main()
