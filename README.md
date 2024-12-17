@@ -1,8 +1,3 @@
----
-title: DM_SpotifyClustering
-
----
-
 # DM_SpotifyClustering
 
 ## Overview
