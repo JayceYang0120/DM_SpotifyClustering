@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data mining about clustering with dataset from Spotify.
+Data mining about clustering with dataset from Spotify.  
 Note: deprecated, move to new repository https://github.com/JayceYang0120/Multi-labelClassification-Clustering
 
 ## Getting Started
