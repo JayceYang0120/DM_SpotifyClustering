@@ -1,0 +1,11 @@
+# ignore the ".venv" folder
+.venv/
+
+# ignore the "__pycache__" folder
+__pycache__/
+
+# ignore all subfolder in "assets" folder
+assets/Kmeans/
+assets/Hierarchical/
+assets/DBSCAN/
+assets/GMM
