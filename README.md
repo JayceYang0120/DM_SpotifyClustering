@@ -2,7 +2,8 @@
 
 ## Overview
 
-Data mining project about clustering with dataset from Spotify. 
+Data mining about clustering with dataset from Spotify.
+Note: deprecated, move to new repository https://github.com/JayceYang0120/Multi-labelClassification-Clustering
 
 ## Getting Started
 
@@ -49,3 +50,16 @@ When you are finished working in the virtual environment, you can deactivate it 
 deactivate
 ```
 Your command prompt will return to its normal state, and you will exit the virtual environment.
+
+## Clustering
+
+Clustering with different method including Kmeans++, hierarchical, DBSCAN, GMM.
+Note: using column "genre" as ground truth.
+
+### 1. Kmeans++
+
+### 2. Hierarchical clustering
+
+### 3. DBSCAN
+
+### 4. GMM
