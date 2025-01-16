@@ -2,9 +2,6 @@
 
 -assets  
 --Kmeans  
---Agglomerative  
+--Hierarchical
 --DBSCAN  
 --GMM  
---RandomForest  
---SVM  
---LinearSVM  
